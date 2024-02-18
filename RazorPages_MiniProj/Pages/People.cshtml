@@ -1,0 +1,69 @@
+﻿@page
+@model RazorMiniProj.Pages.PeopleModel
+@{
+	ViewData["Title"] = "People";
+}
+
+
+
+<h1>People</h1>
+
+
+<form method="post">
+
+	
+	<div class="form-group" >
+
+		<div class="labels">
+
+			<label asp-for="Person.FirstName"></label>
+
+		</div>
+
+		<div class="inputs">
+
+			<input type="text" asp-for="Person.FirstName" placeholder="First Name" />
+
+		</div>
+
+	</div>
+
+	<div class="form-group">
+
+		<div class="labels">
+
+			<label asp-for="Person.LastName"></label>
+			
+		</div>
+
+		<div class="inputs">
+
+			<input type="text" asp-for="Person.LastName" placeholder="Last Name" />
+			
+		</div>
+
+	</div>
+
+	<div class="form-group">
+
+		<div class="labels">
+
+			<label asp-for="Person.IsActive"></label>
+
+		</div>
+
+		<div class="inputs">
+
+			<input asp-for="Person.IsActive" type="checkbox" />
+
+		</div>
+
+	</div>
+
+
+	
+	<button type="submit" class="btn btn-primary">Submit</button>
+	
+
+</form>
+
