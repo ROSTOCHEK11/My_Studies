@@ -1,0 +1,9 @@
+The project was too heavy, so I only uploaded the files I added or changed.
+
+The difference between Blazor Server and Wasm is that the latter works with the client side and is a replacement for frameworks like angular, react and vue.
+
+In Wasm we can't store data just like that, we need to use Api to connect to the Data Access Layer.
+
+In my case, I don't need to work with any amount of data, so the code is identical to what I wrote for the Blazor Server.
+
+

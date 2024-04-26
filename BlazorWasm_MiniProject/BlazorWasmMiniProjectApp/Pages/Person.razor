@@ -1,0 +1,37 @@
+﻿<h3>Person Info</h3>
+
+<EditForm Model="personModel" OnValidSubmit="ValidPersonSubmit">
+
+	<DataAnnotationsValidator />
+	<ValidationSummary />
+
+	<InputText @bind-Value="personModel.FirstName" placeholder="First Name" class="form-control" />
+	<InputText @bind-Value="personModel.LastName" placeholder="Last Name" class="form-control" />
+
+	<button class="btn btn-primary" type="submit">Submit</button>
+
+</EditForm>
+
+<h3>List of People : </h3>
+<ul>
+
+	@foreach (var p in people)
+	{
+		<li>@p.FirstName @p.LastName</li>
+	}
+
+</ul>
+
+@code {
+
+	private PersonModel personModel = new();
+	private List<PersonModel> people = new();
+
+	private void ValidPersonSubmit()
+	{
+		people.Add(personModel);
+		personModel = new();
+	}
+
+
+}
