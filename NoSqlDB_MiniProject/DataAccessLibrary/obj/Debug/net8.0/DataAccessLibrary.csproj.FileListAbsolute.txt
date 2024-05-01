@@ -1,0 +1,17 @@
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.deps.json
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.pdb
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.csproj.AssemblyReference.cache
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.AssemblyInfoInputs.cache
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.AssemblyInfo.cs
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\refint\DataAccessLibrary.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.pdb
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net8.0\ref\DataAccessLibrary.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\msvcp140.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\vcruntime140.dll
+D:\C code\TimCorey\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net8.0\vcruntime140_1.dll
