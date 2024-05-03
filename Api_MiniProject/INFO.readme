@@ -1,0 +1,5 @@
+ApiDBUI - it's Razor Pages
+DataAccessLibrary - it's standart Library
+SampleApi - it's Web Api
+
+SampleApi has dependency on DataAccessLibrary
