@@ -1,0 +1,14 @@
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\bin\Debug\net8.0\LinqUI.exe
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\bin\Debug\net8.0\LinqUI.deps.json
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\bin\Debug\net8.0\LinqUI.runtimeconfig.json
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\bin\Debug\net8.0\LinqUI.dll
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\bin\Debug\net8.0\LinqUI.pdb
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\LinqUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\LinqUI.AssemblyInfoInputs.cache
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\LinqUI.AssemblyInfo.cs
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\LinqUI.csproj.CoreCompileInputs.cache
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\LinqUI.dll
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\refint\LinqUI.dll
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\LinqUI.pdb
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\LinqUI.genruntimeconfig.cache
+D:\C code\TimCorey\LinqAndLambdaSolution\LinqUI\obj\Debug\net8.0\ref\LinqUI.dll
